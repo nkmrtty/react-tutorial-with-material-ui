@@ -1,7 +1,7 @@
 # react-tutorial-with-material-ui
 A tutorial of React with [Material-UI](http://callemall.github.io/material-ui/).
 
-This repository is a extended version of [react-tutorial-es2015](https://github.com/nkmrtty/react-tutorial-es2015).
+This repository is an extended version of [react-tutorial-es2015](https://github.com/nkmrtty/react-tutorial-es2015).
 
 ## How to use
 
